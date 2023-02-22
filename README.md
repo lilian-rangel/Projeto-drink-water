@@ -17,7 +17,7 @@
 <hr>
 <h2 align="center">Demo do projeto </h2>
 <br>
-<img width="100%" align="center" src="assets/img/demo-drink.gif">
+<img width="50%" align="center" src="assets/img/demo-drink.gif">
 
 
 <hr>
